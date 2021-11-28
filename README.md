@@ -3,4 +3,4 @@ A simple book list application with JavaScript. Add and Delete books from the li
 
 
 
-[Live Preview](https://agitated-sammet-9dc8fe.netlify.app/)
+[Live Preview](https://booklist-js-app.netlify.app/)
